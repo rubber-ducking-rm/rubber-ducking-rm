@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ryuta</h1>
+<h1 align="center">Hi 👋, I'm liuta</h1>
 
 <h3 align="left">My personality of 16personalities</h3>
 
